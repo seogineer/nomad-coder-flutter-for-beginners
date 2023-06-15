@@ -3,4 +3,4 @@
 A Pomodoro App Project
 
 ## Screen Shot
-![pomodoro_app](images/Screenshot_1686799844.png)
+<img src="./images/Screenshot_1686799844.png" width="50%" />
